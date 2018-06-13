@@ -2,7 +2,7 @@
 
 2.使用datetime.strptime()处理日期格式
 
-3.读取值时执行错误检查代码：try:...except ValueError...else:...
+3.读取值时执行错误检查代码：try: ...except ValueError...else: ...
 
 4.使用matplotlib创建Sitka2014年7月的最高气温-时间图，并保存
 
