@@ -15,3 +15,4 @@
 本项目基于Python3：基于PYQT5规划基本UI界面；调用serial库，检测串口状态；使用threading库定义守护线程，监听串口接收状态；requests库获取web页面回调状态。
 
 time.sleep()延时数据发送，等待机器反应；QApplication.processEvents()使QTextEdit实时显示；
+！[image](https://github.com/jade7wei/Python/blob/master/picture/Auto_exe.png)
